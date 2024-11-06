@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <div class="frame">
+   <center> <img class="img" src="it.jpg" src="daenerys with egg"width="50%",height="40%" />
+    <h1></h1>
+   <i> <b><big><p class="personality">Information Technology</p></i>
+    <u><p>DIGITAL WORLD</p></u></center></big></b>
+  </div>
+</body>
+
+</html>
